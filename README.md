@@ -1,6 +1,6 @@
 # FizzBuzz
 
-[![Build Status] (https://app.travis-ci.com/cooyong/fizzbuzz.svg?branch=main)](https://github.com/cooyong/fizzbuzz)
+[![Build Status](https://app.travis-ci.com/cooyong/fizzbuzz.svg?branch=main)](https://app.travis-ci.com/github/cooyong/fizzbuzz)
 
 (See that "failing" image above? That's intentional! You can fix that and get it to pass in your fork of this project.)
 
